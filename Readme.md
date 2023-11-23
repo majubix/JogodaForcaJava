@@ -1,0 +1,1 @@
+Jogo da forca feito durante um curso de extenção em java, utilizando boas práticas para um código limpo.
